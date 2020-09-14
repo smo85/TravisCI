@@ -2,4 +2,4 @@ language: c
 
 script: make hello.c
 
-script: make hello
+script: ./hello
