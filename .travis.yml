@@ -1,5 +1,5 @@
 language: c
 
-script: make hello
+script: make hello.c
 
-script: ./hello
+script: make hello
