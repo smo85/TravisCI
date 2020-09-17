@@ -1,2 +1,2 @@
-# TravisCI
-TravisCI Repo for SW A Course
+# Travis CI
+Travis CI Repo for SW A Course
